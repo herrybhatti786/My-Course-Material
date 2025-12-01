@@ -1,0 +1,168 @@
+.Number-1 {
+    border-right: 2px solid black;
+    Width: 50px;
+    Height: 100px;
+}
+.No-2-up {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-left: none;
+    border-bottom: none;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    margin: 5px 0 0 5px;
+}
+.No-2-dn {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-right: none;
+    border-top: none;
+    border-top-left-radius: 25px;
+    /* border-top: none */
+    margin: 0 0 0 5px;
+}
+.No-3-up {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-left: none;
+    Border-bottom: None;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin: 5px 0 0 5px;
+}
+.No-3-dn {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-left: none;
+    margin: 0 0 0 5px;
+}
+.No-4-up {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    Border-bottom-left-radius: 25px;
+    border-top: none;
+    margin: 5px 0 0 5px;
+}
+.No-4-dn {
+    width: 50px;
+    height: 50px;
+    border-right: 2px solid black;
+    margin: 0 0 0 7px;
+}
+.No-5-up {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-bottom-left-radius: 25px;
+    border-bottom: none;
+    border-right: none;
+    margin: 5px 0 0 5px;
+}
+.No-5-dn {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    Border-top: none;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 25px;
+    border-left: none;
+    margin: 0 0 0 5px;
+}
+.No-6-up {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    Border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-right: none;
+    border-bottom: none;
+    margin: 5px 0 0 5px;
+}
+.No-6-dn {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: none;
+    margin: 0 0 0 5px;
+}
+.No-7-up {
+    width: 50px;
+    height: 50px;
+    border-top: 2px solid black;
+    Border-right: 2px solid black;
+    border-bottom-right-radius: 40px;
+    margin: 3px 0 0 5px;
+}
+.No-7-dn {
+    width: 50px;
+    height: 50px;
+    border-left: 2px solid black;
+    border-top-left-radius: 25px;
+    margin: 0 0 0 5px;
+}
+.No-8-up {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 5px 0 0 5px;
+}
+.No-8-dn {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 0 0 0 5px;
+}
+.No-9-up {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin: 5px 0 0 5px;
+}
+.No-9-dn {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-left: none;
+    border-top: none;
+    margin: 0 0 0 7px;
+}
+.Number-10 {
+    position: relative;
+    width: 120px;
+    height: 200px;
+}
+.No-10-up {
+    width: 10px;
+    height: 100px;
+    border-right: 2px solid black;
+    margin: 5px 0 0 5px;
+}
+.No-10-dn {
+    position: relative;
+    bottom: 105px;
+    left: 20px;
+    width: 50px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 2px 0 0 5px;
+}
