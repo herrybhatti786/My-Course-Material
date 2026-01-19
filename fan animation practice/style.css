@@ -1,0 +1,44 @@
+.fan-container {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 50px;
+    border:#333 1px solid;
+}
+
+.fan-hub {
+   
+    width: 40px;
+    height: 40px;
+    background-color: #333;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+}
+
+.fan-blade {
+    
+    width: 100px;
+    height: 25px;
+    background-color: #999;
+    border-radius: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform-origin: 0% 50%; 
+}
+
+.blade-1 {
+    transform: translate(-50%, -50%) rotate(0deg);
+}
+
+.blade-2 {
+    transform: translate(-50%, -50%) rotate(120deg); 
+}
+
+.blade-3 {
+    transform: translate(-50%, -50%) rotate(240deg);
+}
